@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CidrCTestProjectState">
+    <ctestState>
+      <lineNumber testId="path:CMakeLists.txt test:sorting_benchmark" value="14" />
+      <lineNumber testId="path:CMakeLists.txt test:sorting_test" value="11" />
+    </ctestState>
+  </component>
+</project>
